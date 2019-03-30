@@ -1,3 +1,17 @@
+/*
+	Stack data struture with follwoing operations
+	push(val)  - Adds value to the stack
+	pop()      - Deletes the element from the stack
+	peek()     - Retrieves the element from the stack but won't remove it.
+	isFull()   - Check if the stack is full
+	isEmpty()  - Check if the stack is empty
+*/
+
+/*
+	Time Complexity  - O(N)
+	Space Complexity - O(N)
+*/
+
 import java.util.Scanner;
 
 class Stack{

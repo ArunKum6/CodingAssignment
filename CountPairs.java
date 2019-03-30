@@ -1,3 +1,12 @@
+/*
+	Counting pairs in the array that has difference of k.
+	Used map to track the difference value and duplicate pairs.
+*/
+
+/*
+	Time Complexity - O(N)
+	Space Complexity - O(N)
+*/
 import java.util.HashMap;
 import java.util.Scanner;
 
