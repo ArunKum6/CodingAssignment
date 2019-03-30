@@ -71,7 +71,7 @@ public class ArraySum {
                 res += nextVal;
             }
             else
-            		res += x;
+            	res += x;
         }
         
         return res;

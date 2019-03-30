@@ -10,7 +10,7 @@
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class CountingPairs {
+public class CountPairs {
 	public static void main(String args[]) {
 		Scanner s = new Scanner(System.in);
 		int N = s.nextInt();
